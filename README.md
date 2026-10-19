@@ -25,6 +25,8 @@ evaluacion.
   
   4- Subir al repositorio GitHub las Carpetas de los Labs manteniendo un orden.
 
-# Orden de Laboratorios y practicas y fecha:
+# Orden de Laboratorios y practicas:
 
-(En construccion... esperar al proximo commit)
+Se establecio el orden conforme al archivo compartido en clase. Sí algun laboratorio llegare a faltar, es muy probable que se encuentre en la carpeta "z_OTROS ejercicios" la cual contiene los primeros ejercicios de programacion hechos en el bootcamp, ejercicios hechos en clase directamente y probablemente haya algun lab debido a que no se cuenta con todos los ZIP que menciona el documento.
+
+Cabe mencionar que algunos labs no fueron completados al 100%, sin embargo, en un futuro se planea completarlos, no para la entrega, sino para practicar y perfeccionar al completarlos, despues de todo, se nos pidio cumplir con la entrega, así que he de cumplir.
